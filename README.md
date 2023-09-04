@@ -3,7 +3,7 @@
 ### **Computer Engineering Student**
 
 
-### Skills :sparkles:
+### ✨ Skills 
 <p align="left">
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
@@ -11,7 +11,7 @@
                     </p>
 
                          
-### Socials 
+### ✨ Socials 
 <p align="left">
   <a href="https://www.linkedin.com/in/jimena-arnaiz-gonzález-b10978289" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" alt="LinkedIn" width="32" height="32" />
