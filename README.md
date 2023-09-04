@@ -1,6 +1,6 @@
 ## Hello world! :wave:
 
-### **Computer Engineering Student**
+### ***Computer Engineering Student***
 
 
 ### ✨ Skills 
