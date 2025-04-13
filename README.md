@@ -11,8 +11,6 @@
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
 
-                    </p>
-
                          
 ### ✨ Socials 
 <p align="left">
