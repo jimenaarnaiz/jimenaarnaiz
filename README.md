@@ -13,13 +13,14 @@
 
 ### Technologies
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="50" />
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg" title="Jetpack Compose" alt="Jetpack Compose" height="50"/>
-  <img src="https://developer.android.com/images/logos/android-studio.svg" title="Android Studio" alt="Android Studio" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50" title="Jupyter" alt="Jupyter logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" title="GitHub" alt="GitHub logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" title="Visual Studio Code" alt="Visual Studio Code logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="50" title="Eclipse" alt="Eclipse logo" />
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="50" title="Firebase" alt="Firebase logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg" title="Jetpack Compose" alt="Jetpack Compose logo" height="50" />
+  <img src="https://developer.android.com/images/logos/android-studio.svg" title="Android Studio" alt="Android Studio logo" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" title="SonarQube" alt="SonarQube logo" width="40" height="50" />
  </p>
                          
 ### ✨ Socials 
