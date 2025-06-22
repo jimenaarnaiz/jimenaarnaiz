@@ -32,6 +32,6 @@
 
 
 ##
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=jimenaarnaiz&layout=compact&langs_count=6&theme=dark)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=jimenaarnaiz&layout=compact&langs_count=5&theme=dark)
 
 
