@@ -19,6 +19,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="50" />
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg" title="Jetpack Compose" alt="Jetpack Compose" height="50"/>
+  <img src="https://developer.android.com/images/logos/android-studio.svg" title="Android Studio" alt="Android Studio" height="50"/>
+ 
+
 </p>
 
 
