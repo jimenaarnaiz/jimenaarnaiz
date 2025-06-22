@@ -2,7 +2,6 @@
 
 ### ***Computer Engineer***
 
-
 ### ✨ Skills 
 <p align="left">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
@@ -12,7 +11,7 @@
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 <img src="https://img.shields.io/badge/PowerFx-742774?style=for-the-badge&logo=powerapps&logoColor=white" />
 
-### ✨ Technologies
+### Technologies
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" />
@@ -21,12 +20,7 @@
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg" title="Jetpack Compose" alt="Jetpack Compose" height="50"/>
   <img src="https://developer.android.com/images/logos/android-studio.svg" title="Android Studio" alt="Android Studio" height="50"/>
- 
-
-</p>
-
-
-
+ </p>
                          
 ### ✨ Socials 
 <p align="left">
@@ -34,3 +28,9 @@
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" alt="LinkedIn" width="32" height="32" />
   </a>
   </p>
+
+
+##
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=jimenaarnaiz&layout=compact&langs_count=6&theme=dark)
+
+
