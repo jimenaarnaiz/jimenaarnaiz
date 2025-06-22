@@ -1,6 +1,6 @@
 ## Hello world! :wave:
 
-### ***Computer Engineer***
+### ***Software Engineer***
 
 ### ✨ Skills 
 <p align="left">
