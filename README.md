@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 <img src="https://img.shields.io/badge/PowerFx-742774?style=for-the-badge&logo=powerapps&logoColor=white" />
 
-### Technologies
+### 🔨 Technologies
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50" title="Jupyter" alt="Jupyter logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" title="GitHub" alt="GitHub logo" />
