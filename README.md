@@ -1,6 +1,7 @@
 # Hello world! :wave:
 
 ## ***Software Engineer***
+🎓 Graduated in Software Engineering from the University of Burgos.  
 I’m a passionate software engineer focused on web and Android application development.  
 Always eager to explore new technologies and take part in projects that challenge me and help me grow both technically and creatively.
 
