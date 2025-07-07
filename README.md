@@ -9,7 +9,7 @@ Always eager to explore new technologies and take part in projects that challeng
 ### ✨ Skills 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,python,kotlin,postgresql,c" />  
-  &nbsp;&nbsp;
+  &nbsp;
   <img src="https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white" />
 </p>
 
