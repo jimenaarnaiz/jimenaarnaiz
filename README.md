@@ -33,7 +33,7 @@ Always eager to explore new technologies and take part in projects that challeng
   
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=jimenaarnaiz&layout=compact&langs_count=5&theme=dark)
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=jimenaarnaiz&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
