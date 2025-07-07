@@ -22,7 +22,7 @@
 ### ✨ Socials 
 <p align="left">
   <a href="https://www.linkedin.com/in/jimena-arnaiz-gonzález-b10978289" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" alt="LinkedIn" width="32" height="32" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" alt="LinkedIn" width="40" height="50" />
   </a>
   </p>
 
