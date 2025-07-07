@@ -1,6 +1,7 @@
-## Hello world! :wave:
+# Hello world! :wave:
 
-### ***Software Engineer***
+## ***Software Engineer***
+Passionate about web and Android application development, I’m always eager to explore new technologies and take part in projects that challenge me and help sharpen my skills.
 
 ### ✨ Skills 
 <p align="left">
