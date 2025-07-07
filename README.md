@@ -1,12 +1,15 @@
 # Hello world! :wave:
 
 ## ***Software Engineer***
-Passionate about web and Android application development, I’m always eager to explore new technologies and take part in projects that challenge me and help sharpen my skills.
+I’m a passionate software engineer focused on web and Android application development.  
+Always eager to explore new technologies and take part in projects that challenge me and help me grow both technically and creatively.
 
+---
 ### ✨ Skills 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,python,kotlin,postgresql,c,powerbi" />
   <img src="https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white" />
+</p>
 
 ### 🔨 Technologies
 <p align="left">
@@ -18,17 +21,18 @@ Passionate about web and Android application development, I’m always eager to 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg" title="Jetpack Compose" alt="Jetpack Compose logo" height="50" />
   <img src="https://developer.android.com/images/logos/android-studio.svg" title="Android Studio" alt="Android Studio logo" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" title="SonarQube" alt="SonarQube logo" width="40" height="50" />
- </p>
+</p>
                          
 ### 🌐 Socials 
 <p align="left">
   <a href="https://www.linkedin.com/in/jimena-arnaiz-gonzález-b10978289" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" alt="LinkedIn" width="40" height="50" />
   </a>
-  </p>
+</p>
+  
+---
 
-
-##
+### 📊 GitHub Stats
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=jimenaarnaiz&layout=compact&langs_count=5&theme=dark)
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=jimenaarnaiz&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
