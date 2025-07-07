@@ -15,7 +15,7 @@ Always eager to explore new technologies and take part in projects that challeng
 ### 🔨 Technologies
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50" title="Jupyter" alt="Jupyter logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" title="GitHub" alt="GitHub logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" title="Git" alt="Git logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" title="Visual Studio Code" alt="Visual Studio Code logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="50" title="Eclipse" alt="Eclipse logo" />
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="50" title="Firebase" alt="Firebase logo" />
